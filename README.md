@@ -11,7 +11,7 @@ context = (
     /originalopinion: You have to formulate an argument against this opinion. 
     /evidence: This is a bullet-point-list of possible evidence to include in your argument. It is not always necessary that these make sense or help you. So, you may ignore them if they are not helpful or lack context. 
     /style: this is the style of argument you should create. 
-    Now following these instructions, generate counter-arguments in about 120 words for the given input:
+    Now following these instructions, generate counter-arguments in about 120 words for the given input:"
 )
 
 # Nostyle
